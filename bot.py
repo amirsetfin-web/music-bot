@@ -54,7 +54,7 @@ from telegram.ext import (
 load_dotenv()
 
 BOT_TOKEN = os.getenv("8871054621:AAE9MgvinDQ0WrqOBC6TncQCcJD5vai6E7M")
-ADMIN_ID = int(os.getenv("AmirSetfin_YT", "0"))
+ADMIN_ID = int(os.getenv("8486187425", "0"))
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 # روی سرور (مثل Railway) می‌تونی DATA_DIR رو به مسیر یه Volume دائمی ست کنی
